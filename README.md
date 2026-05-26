@@ -53,6 +53,8 @@ git-push.bat
 
 ## Örnek Çıktı
 
+![Demo](assets/demo.png)
+
 ```
 ==========================================
   GIT PUSH SCRIPT
