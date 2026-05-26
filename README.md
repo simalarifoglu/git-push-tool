@@ -87,7 +87,7 @@ git-push.bat
 
 ## Ön Koşullar
 
-- Git 2.x veya üzeri
+- Git 2.x veya üzeri 
 - Yapılandırılmış uzak depo (`origin`)
 - Windows için [Git for Windows](https://git-scm.com)
 
